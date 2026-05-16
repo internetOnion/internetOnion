@@ -1,13 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&width=435&lines=Hi+I'm+Reaksmey)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&center=true&width=435&lines=Hi+I'm+Reaksmey)](https://git.io/typing-svg)
 
-### About me
+<table>
+  <tr>
+    <td width="40%" valign="middle">
+      <img src="assets/frieren.jpeg" width="100%" />
+    </td>
+    <td width="60%" valign="middle">
+      <pre>
+internetOnion@github
 
-- 📚 I'm a university student
-- 🔭 I mainly do web development
-- 🌱 I continue to imporve my skill by building project
-- ⚡ Fun fact I'm currently learning japanese so I can work in Japan
+📜 Computer Science Undergraduate
+🔭 Mainly working on web development
+🌱 Keep learning new thing every day
+🏃‍♀️ Hobbies: japanese / football ( •̀⤙•́ )
+</pre>
+</td>
 
----
+  </tr>
+</table>
+
+<br>
 
 ### Stats
 
