@@ -2,21 +2,10 @@
 
 ### About Me
 
-<p>
-<img align="left" src="./assets/frieren.jpeg" width="300" />
-
-```
-internetOnion@github
----------------------------------------
-📜 Computer Science Undergraduate
-🔭 Mainly working on web development
-🌱 Keep learning new thing every day
-🏃‍♀️ Hobbies: japanese / football ( •̀⤙•́ )
-```
-
-</p>
-
-<br clear="all" />
+- 📜 Computer Science Undergraduate
+- 🔭 Mainly working on web development
+- 🌱 Keep learning new thing every day
+- 🏃‍♀️ Hobbies: japanese / football ( •̀⤙•́ )
 
 ### Stats
 
