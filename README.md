@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 📜 Computer Science Undergraduate
+- 🎓 Computer Science Undergraduate
 - 🔭 Mainly working on web development
 - 🌱 Keep learning new thing every day
 - 🏃‍♀️ Hobbies: japanese / football ( •̀⤙•́ )
