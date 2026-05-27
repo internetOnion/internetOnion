@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&width=435&lines=Hi+I'm+Reaksmey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&width=435&lines=Hi+I'm+Reaksmey&color=9500FF)](https://git.io/typing-svg)
 
 ### About Me
 
